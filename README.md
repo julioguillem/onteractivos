@@ -1,6 +1,6 @@
 # interactivos
 ## BOCETOS 
-boceto 1 (1_practica_patrones)
+## boceto 1 (1_practica_patrones)
 
 
 
