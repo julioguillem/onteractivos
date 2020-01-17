@@ -1,10 +1,6 @@
 # interactivos
-## BOCETOS 
-[boceto 1] (https://github.com/julioguillem/onteractivos/tree/master/1-practica_patrones)
-
-
-
-
+## BOCETO 1
+[boceto 1](1-practica_patrones)
 
 
 
