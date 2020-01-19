@@ -13,7 +13,9 @@
 [boceto 6](sensor_untrasonidos-MEDIR CM)
 
 
-
+## RESULTADO
+[Interacción en el espacio](INTERACCIÓN_EN_EL_ESPACIO)
 
 
 @jguillem/4ºDG 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
