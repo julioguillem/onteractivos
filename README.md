@@ -14,8 +14,9 @@
 
 
 ## RESULTADO
+Proyecto de processing con sensor de ultrasonidos conectado a placa de arduino ONE
 [Interacción en el espacio](INTERACCIÓN_EN_EL_ESPACIO)
 
 
 @jguillem/4ºDG 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:+1: 
