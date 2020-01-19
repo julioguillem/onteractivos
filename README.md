@@ -1,7 +1,6 @@
 # INTERACCIÓN EN EL ESPACIO
 ## BOCETOS
-[boceto 1](1-practica_patrones)
-###### 
+[boceto 1](1-practica_patrones) 
 [boceto 2](2cylinder_PRUEBA)
 ######
 [boceto 3](3cilindro_texto)
